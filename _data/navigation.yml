@@ -1,0 +1,30 @@
+# main links links
+main:
+  - title: "Industrial/Research Projects"
+    url: /projects/
+    description: "Notable industrial/academic projects that I have done so far"
+  
+  - title: "Personal Projects"
+    url: /pprojects/
+    description: "Projects that I have done due to my personal interests"
+
+  - title: "Selected courses"
+    url: /courses/
+    description: "Selected courses that I took throughout my master's and PhD"
+  #- title: "Teaching"
+    #url: /teaching/    
+
+  - title: "Blog Posts"
+    url: /year-archive/
+
+  - title: "Resume"
+    url: /files/Rostam_resume.pdf
+    
+    #- title: "Talks"
+    #url: /talks/    
+    
+    #- title: "Portfolio"
+    #url: /portfolio/
+    
+    #- title: "Guide"
+    #url: /markdown/
