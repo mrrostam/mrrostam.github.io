@@ -10,9 +10,9 @@ redirect_from:
 
 
 <p style='text-align: justify;'>
-I am a PhD candidate in the <a href="http://cel.mech.ubc.ca/">Control Engineering Laboratory</a> at the University of British Columbia. Broadly speaking, I am interested in developing advanced control algorithms to improve the performance of mechatronic systems. More specifically, my research interests include <b>control theory (adaptive, robust, nonlinear, optimal), model predictive control, time-series forecasting, and data-driven models</b>. I am currently working on a novel control system combining the model predictive control scheme with a machine learning technique called the Gaussian process. The proposed control system is able to adaptively deal with quasi-periodic unknown disturbances such as energy demand in renewable energy systems.
+I am a PhD candidate in the <a href="http://cel.mech.ubc.ca/">Control Engineering Laboratory</a> at the University of British Columbia. Broadly speaking, I am interested in developing advanced control algorithms to improve the performance of mechatronic systems. More specifically, my research interests include <b>control theory (adaptive, robust, nonlinear, optimal), model predictive control and optimization, time-series forecasting, and data-driven models</b>. I am currently working on a novel control system combining the model predictive control scheme with a machine learning technique called the Gaussian process. The proposed control system is able to adaptively deal with quasi-periodic unknown disturbances such as energy demand in renewable energy systems.
 <br><br>
-From an engineering perspective, I call myself an embedded system engineer. My areas of expertise include <b>programming for Bare-Metal, RTOS, and Linux systems; working with different types of sensors; and establishing a network between components</b>.
+From an engineering perspective, I call myself an embedded software developer. My areas of expertise include <b>programming for Bare-Metal, RTOS, and Linux systems; working with different types of sensors; and establishing a network between components</b>.
 </p> 
 
 <!--<p style='text-align: justify;'> Your Text </p> 

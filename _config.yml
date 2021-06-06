@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Mohammadreza Rostam"
   avatar           : "profile.png"
-  bio              : "PhD candidate at UBC - Embedded software engineer, machine learning & AI researcher, control systems engineer"
+  bio              : "PhD candidate at UBC - Embedded software engineer at Picovoice, machine learning & AI researcher, control systems engineer"
   location         : "Vancouver, BC"
-  employer         :
+  employer         : "Picovoice"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=JblhTUUAAAAJ&hl=en"
   email            : "pooya.rostam@gmail.com"
